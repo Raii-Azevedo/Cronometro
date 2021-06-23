@@ -16,11 +16,12 @@
 </p>
 
 ## Cronônetro
-<a href="url"><img src="https://github.com/Raii-Azevedo/biscoito-da-sorte/blob/master/biscoito.gif" align="left" height="480" width="300" ></a>
+<a href="url"><img src="https://github.com/Raii-Azevedo/Cronometro/blob/master/cronometro.gif" align="left" height="480" width="300" ></a>
  
- - Biscoitinho da Desgraça, um app cheio de mensagens desmotivacionais, para você começar o dia daquele jeito!
+ - App de cronometragem
+
  
- - Biscoitinho da Desgraça, an app full of demotivational messages, for you to start your day "like that"!
+ - Timing app
 
 
 ## 🚀 How to use
