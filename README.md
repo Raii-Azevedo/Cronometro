@@ -16,7 +16,7 @@
 </p>
 
 ## Cronônetro
-<a href="url"><img src="https://github.com/Raii-Azevedo/Cronometro/blob/master/cronometro.gif" align="left" height="520" width="300" ></a>
+<a href="url"><img src="https://github.com/Raii-Azevedo/Cronometro/blob/master/cronometro.gif" align="left" height="550" width="300" ></a>
  
  - App de cronometragem
 
